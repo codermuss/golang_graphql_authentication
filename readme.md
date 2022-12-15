@@ -12,7 +12,7 @@
   <h3 align="center">Authentication with Golang&Graphql&MySql</h3>
 
   <p align="center">
-    An awesome server authentication server!
+    An awesome authentication server!
     <br />
  
   </p>
